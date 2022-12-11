@@ -1,0 +1,77 @@
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe.config
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Inventory Management.exe
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Inventory Management.pdb
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Microsoft.Win32.Registry.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\Newtonsoft.Json.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\RestSharp.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Buffers.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.CodeDom.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Data.Odbc.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Data.OleDb.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Data.SqlClient.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Diagnostics.EventLog.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Drawing.Common.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.IO.Packaging.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.IO.Ports.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Memory.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Numerics.Vectors.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Security.AccessControl.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Security.Permissions.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Security.Principal.Windows.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.ServiceModel.Syndication.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\bin\Debug\System.Threading.AccessControl.xml
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.AssemblyReference.cache
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.FrmInventoryM.resources
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.Properties.Resources.resources
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.GenerateResource.cache
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe.licenses
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.CoreCompileInputs.cache
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.Fody.CopyLocal.cache
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory Management.csproj.CopyComplete
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory Management.exe
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory Management.pdb
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.FrmManageUsers.resources
+D:\EJERCICIOS C#\INVENTORY MANAGEMENT\Inventory Management\Inventory Management\obj\Debug\Inventory_Management.ManageCustomers.resources
