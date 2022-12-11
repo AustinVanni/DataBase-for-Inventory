@@ -1,2 +1,2 @@
 # DataBase-for-Inventory
-c# sql and visual studio
+C#, .Net & SQL. Visual Studio
